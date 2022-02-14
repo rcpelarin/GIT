@@ -2,19 +2,28 @@ TINNOVA - Python Dev Test
 
 Descrição da elaboração das resoluções de cada teste aplicado.
 
-1) Votos em relação ao total de eleitores. - COMPLETO
+1 - Votos em relação ao total de eleitores. - COMPLETO
+
 Para elaboração do código foi utilizado conhecimento prévio de Classes instanciadas e Funções, também consultei uma documentação para facilitar a compreensão da construção da Classe e melhor implementação do códgio.
 
-2) Algoritmo de ordenação Bubble Sort. - COMPLETO
+
+2 - Algoritmo de ordenação Bubble Sort. - COMPLETO
+
 Para responder esta questão, recorri à consultas na internet para melhor compreensão da construção de uma lógica BubbleSort em python.
 
-3) Fatorial. - COMPLETO
+
+3 - Fatorial. - COMPLETO
+
 Neste caso, havia conhecimento prévio de como construir esta lógica apenas usando o laço "While" e alguns conhecimento de edição de texto para melhor apresentação da resposta.
 
-4) Soma de múltiplos de 3 ou 5. - COMPLETO
+
+4 - Soma de múltiplos de 3 ou 5. - COMPLETO
+
 Para esta questão também foi utilizado conhecimento prévio de lógica para simples construção do algoritmo de forma que o usuário pode determinar o valor máximo da busca do valores testados.
 
-5) Cadastro de veículos (Com API RestFul) - INCOMPLETO
+
+5 - Cadastro de veículos (Com API RestFul) - INCOMPLETO
+
 Para esta questão, não havia quase nenhum conhecimento prévio, portanto, coube a mim procurar cursos aplicados à construção de API usando o Python.
 Neste caso, procurei um curso de FastAPI na Udemy a fim de tentar viabilizar uma interface satisfatória para o exercício. 
 
