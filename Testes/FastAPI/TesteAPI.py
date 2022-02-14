@@ -13,29 +13,25 @@ class Carro(BaseModel):
     created: date
     updated: date
 
-lista = [
-    Carro(
-        veiculo='Ka', 
-        marca='Ford',
-        ano=2009,
-        descricao='120.000 Km rodados',
-        vendido=False,
-        created='2021-10-30T13:54:23.138Z',
-        updated='2021-10-30T14:30:26.138Z'
-    )
-]
+lista = []
 
-@app.post('/carro')
+@app.post('/cadastro')
 def cadastro(carro: Carro):
-    lista.append(carro)
-    return ('Carro cadastrado')
+    try:
+        lista.append(carro)
+        return {'Status': 'Carro cadastrado'}
+    except:
+        return {'Status': 'Erro'}
 
 @app.post('/consulta')
 def consulta(opcao: int == 0):
+    opcao = int(input('Digite 0 para ver todos, 1 para filtrar os não vendidos e 2 para filtrar os vendidos: '))
     if opcao == 0:
         return (lista)
     elif opcao == 1:
         return list(filter(lambda x: x.vendido == False, lista))
     elif opcao == 2:
         return list(filter(lambda x: x.vendido == True, lista))
+    else:
+        return ('Opção Inválida')
     
