@@ -36,3 +36,5 @@ Documentações consultadas:
 2 - [BubbleSort] https://panda.ime.usp.br/panda/static/pythonds_pt/05-OrdenacaoBusca/OBubbleSort.html
 
 3 - [FastAPI] https://www.udemy.com/course/crie-apis-com-python-fast-api/learn/lecture/25744314#overview
+
+4 - [FastAPI] https://fastapi.tiangolo.com/
