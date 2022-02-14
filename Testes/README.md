@@ -9,17 +9,17 @@ Para elaboração do código foi utilizado conhecimento prévio de Classes insta
 
 2 - Algoritmo de ordenação Bubble Sort. - COMPLETO
 
-Para responder esta questão, recorri à consultas na internet para melhor compreensão da construção de uma lógica BubbleSort em python.
+Para responder esta questão, recorri à consultas na internet apenas para melhor compreensão da construção de uma lógica BubbleSort.
 
 
 3 - Fatorial. - COMPLETO
 
-Neste caso, havia conhecimento prévio de como construir esta lógica apenas usando o laço "While" e alguns conhecimento de edição de texto para melhor apresentação da resposta.
+Neste caso, havia conhecimento prévio de como construir esta lógica apenas usando o laço "While" e alguns conhecimentos de edição de texto para melhor apresentação da resposta.
 
 
 4 - Soma de múltiplos de 3 ou 5. - COMPLETO
 
-Para esta questão também foi utilizado conhecimento prévio de lógica para simples construção do algoritmo de forma que o usuário pode determinar o valor máximo da busca do valores testados.
+Para esta questão também foi utilizado conhecimento prévio de lógica para simples construção do algoritmo, de forma que o usuário pode determinar o valor máximo da busca dos valores testados.
 
 
 5 - Cadastro de veículos (Com API RestFul) - INCOMPLETO
